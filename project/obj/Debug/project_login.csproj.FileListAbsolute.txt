@@ -1,0 +1,135 @@
+C:\Users\zkdlz\OneDrive\Desktop\cs\project\project\bin\Debug\project.exe.config
+C:\Users\zkdlz\OneDrive\Desktop\cs\project\project\bin\Debug\project.exe
+C:\Users\zkdlz\OneDrive\Desktop\cs\project\project\bin\Debug\project.pdb
+C:\Users\zkdlz\OneDrive\Desktop\cs\project\project\obj\Debug\project_login.csproj.AssemblyReference.cache
+C:\Users\zkdlz\OneDrive\Desktop\cs\project\project\obj\Debug\project_login.csproj.SuggestedBindingRedirects.cache
+C:\Users\zkdlz\OneDrive\Desktop\cs\project\project\obj\Debug\project.join.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project\project\obj\Debug\project.login.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project\project\obj\Debug\project.main.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project\project\obj\Debug\project.pwchange.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project\project\obj\Debug\project_login.csproj.GenerateResource.cache
+C:\Users\zkdlz\OneDrive\Desktop\cs\project\project\obj\Debug\project_login.csproj.CoreCompileInputs.cache
+C:\Users\zkdlz\OneDrive\Desktop\cs\project\project\obj\Debug\project.exe
+C:\Users\zkdlz\OneDrive\Desktop\cs\project\project\obj\Debug\project.pdb
+C:\Users\zkdlz\OneDrive\Desktop\cs\project\project\obj\Debug\project.BuySelectForm.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project\project\obj\Debug\project.SellForm.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project\project\obj\Debug\project.ShareSellForm.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project\project\obj\Debug\project.StockSellForm.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project\project\obj\Debug\project.ShareBuyForm.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project\project\obj\Debug\project.StockBuyForm.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project\project\obj\Debug\project.Bio.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project\project\obj\Debug\project.LG.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project\project\obj\Debug\project.POSCO.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project\project\obj\Debug\project.Samsung.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project\project\obj\Debug\project.SK.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project\project\obj\Debug\project.Eco.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project\project\obj\Debug\project.EcoY.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project\project\obj\Debug\project.HCar.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project\project\obj\Debug\project.HCarY.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project\project\obj\Debug\project.LGC.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project\project\obj\Debug\project.LGCY.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project\project\obj\Debug\project.SamsungU.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project\project\obj\Debug\project.SamsungUY.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project\project\obj\Debug\project.SDSIY.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project\project\obj\Debug\project.SDSI.resources
+C:\c#\project (1)\project\project\bin\Debug\project.exe.config
+C:\c#\project (1)\project\project\bin\Debug\project.exe
+C:\c#\project (1)\project\project\bin\Debug\project.pdb
+C:\c#\project (1)\project\project\obj\Debug\project_login.csproj.AssemblyReference.cache
+C:\c#\project (1)\project\project\obj\Debug\project_login.csproj.SuggestedBindingRedirects.cache
+C:\c#\project (1)\project\project\obj\Debug\project.Bio.resources
+C:\c#\project (1)\project\project\obj\Debug\project.Eco.resources
+C:\c#\project (1)\project\project\obj\Debug\project.EcoY.resources
+C:\c#\project (1)\project\project\obj\Debug\project.HCar.resources
+C:\c#\project (1)\project\project\obj\Debug\project.HCarY.resources
+C:\c#\project (1)\project\project\obj\Debug\project.LG.resources
+C:\c#\project (1)\project\project\obj\Debug\project.LGC.resources
+C:\c#\project (1)\project\project\obj\Debug\project.LGCY.resources
+C:\c#\project (1)\project\project\obj\Debug\project.POSCO.resources
+C:\c#\project (1)\project\project\obj\Debug\project.Samsung.resources
+C:\c#\project (1)\project\project\obj\Debug\project.SamsungU.resources
+C:\c#\project (1)\project\project\obj\Debug\project.SamsungUY.resources
+C:\c#\project (1)\project\project\obj\Debug\project.SDSIY.resources
+C:\c#\project (1)\project\project\obj\Debug\project.SK.resources
+C:\c#\project (1)\project\project\obj\Debug\project.join.resources
+C:\c#\project (1)\project\project\obj\Debug\project.login.resources
+C:\c#\project (1)\project\project\obj\Debug\project.main.resources
+C:\c#\project (1)\project\project\obj\Debug\project.BuySelectForm.resources
+C:\c#\project (1)\project\project\obj\Debug\project.SellForm.resources
+C:\c#\project (1)\project\project\obj\Debug\project.ShareBuyForm.resources
+C:\c#\project (1)\project\project\obj\Debug\project.ShareSellForm.resources
+C:\c#\project (1)\project\project\obj\Debug\project.StockBuyForm.resources
+C:\c#\project (1)\project\project\obj\Debug\project.StockSellForm.resources
+C:\c#\project (1)\project\project\obj\Debug\project.Properties.Resources.resources
+C:\c#\project (1)\project\project\obj\Debug\project.pwchange.resources
+C:\c#\project (1)\project\project\obj\Debug\project.SDSI.resources
+C:\c#\project (1)\project\project\obj\Debug\project_login.csproj.GenerateResource.cache
+C:\c#\project (1)\project\project\obj\Debug\project_login.csproj.CoreCompileInputs.cache
+C:\c#\project (1)\project\project\obj\Debug\project.exe
+C:\c#\project (1)\project\project\obj\Debug\project.pdb
+C:\Users\zkdlz\OneDrive\Documents\카카오톡 받은 파일\project최종\project최종\project\project\bin\Debug\project.exe.config
+C:\Users\zkdlz\OneDrive\Documents\카카오톡 받은 파일\project최종\project최종\project\project\bin\Debug\project.exe
+C:\Users\zkdlz\OneDrive\Documents\카카오톡 받은 파일\project최종\project최종\project\project\bin\Debug\project.pdb
+C:\Users\zkdlz\OneDrive\Documents\카카오톡 받은 파일\project최종\project최종\project\project\obj\Debug\project_login.csproj.AssemblyReference.cache
+C:\Users\zkdlz\OneDrive\Documents\카카오톡 받은 파일\project최종\project최종\project\project\obj\Debug\project_login.csproj.SuggestedBindingRedirects.cache
+C:\Users\zkdlz\OneDrive\Documents\카카오톡 받은 파일\project최종\project최종\project\project\obj\Debug\project.Bio.resources
+C:\Users\zkdlz\OneDrive\Documents\카카오톡 받은 파일\project최종\project최종\project\project\obj\Debug\project.Eco.resources
+C:\Users\zkdlz\OneDrive\Documents\카카오톡 받은 파일\project최종\project최종\project\project\obj\Debug\project.EcoY.resources
+C:\Users\zkdlz\OneDrive\Documents\카카오톡 받은 파일\project최종\project최종\project\project\obj\Debug\project.HCar.resources
+C:\Users\zkdlz\OneDrive\Documents\카카오톡 받은 파일\project최종\project최종\project\project\obj\Debug\project.HCarY.resources
+C:\Users\zkdlz\OneDrive\Documents\카카오톡 받은 파일\project최종\project최종\project\project\obj\Debug\project.LG.resources
+C:\Users\zkdlz\OneDrive\Documents\카카오톡 받은 파일\project최종\project최종\project\project\obj\Debug\project.LGC.resources
+C:\Users\zkdlz\OneDrive\Documents\카카오톡 받은 파일\project최종\project최종\project\project\obj\Debug\project.LGCY.resources
+C:\Users\zkdlz\OneDrive\Documents\카카오톡 받은 파일\project최종\project최종\project\project\obj\Debug\project.POSCO.resources
+C:\Users\zkdlz\OneDrive\Documents\카카오톡 받은 파일\project최종\project최종\project\project\obj\Debug\project.Samsung.resources
+C:\Users\zkdlz\OneDrive\Documents\카카오톡 받은 파일\project최종\project최종\project\project\obj\Debug\project.SamsungU.resources
+C:\Users\zkdlz\OneDrive\Documents\카카오톡 받은 파일\project최종\project최종\project\project\obj\Debug\project.SamsungUY.resources
+C:\Users\zkdlz\OneDrive\Documents\카카오톡 받은 파일\project최종\project최종\project\project\obj\Debug\project.SDSIY.resources
+C:\Users\zkdlz\OneDrive\Documents\카카오톡 받은 파일\project최종\project최종\project\project\obj\Debug\project.SK.resources
+C:\Users\zkdlz\OneDrive\Documents\카카오톡 받은 파일\project최종\project최종\project\project\obj\Debug\project.join.resources
+C:\Users\zkdlz\OneDrive\Documents\카카오톡 받은 파일\project최종\project최종\project\project\obj\Debug\project.login.resources
+C:\Users\zkdlz\OneDrive\Documents\카카오톡 받은 파일\project최종\project최종\project\project\obj\Debug\project.main.resources
+C:\Users\zkdlz\OneDrive\Documents\카카오톡 받은 파일\project최종\project최종\project\project\obj\Debug\project.BuySelectForm.resources
+C:\Users\zkdlz\OneDrive\Documents\카카오톡 받은 파일\project최종\project최종\project\project\obj\Debug\project.SellForm.resources
+C:\Users\zkdlz\OneDrive\Documents\카카오톡 받은 파일\project최종\project최종\project\project\obj\Debug\project.ShareBuyForm.resources
+C:\Users\zkdlz\OneDrive\Documents\카카오톡 받은 파일\project최종\project최종\project\project\obj\Debug\project.ShareSellForm.resources
+C:\Users\zkdlz\OneDrive\Documents\카카오톡 받은 파일\project최종\project최종\project\project\obj\Debug\project.StockBuyForm.resources
+C:\Users\zkdlz\OneDrive\Documents\카카오톡 받은 파일\project최종\project최종\project\project\obj\Debug\project.StockSellForm.resources
+C:\Users\zkdlz\OneDrive\Documents\카카오톡 받은 파일\project최종\project최종\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\zkdlz\OneDrive\Documents\카카오톡 받은 파일\project최종\project최종\project\project\obj\Debug\project.pwchange.resources
+C:\Users\zkdlz\OneDrive\Documents\카카오톡 받은 파일\project최종\project최종\project\project\obj\Debug\project.SDSI.resources
+C:\Users\zkdlz\OneDrive\Documents\카카오톡 받은 파일\project최종\project최종\project\project\obj\Debug\project_login.csproj.GenerateResource.cache
+C:\Users\zkdlz\OneDrive\Documents\카카오톡 받은 파일\project최종\project최종\project\project\obj\Debug\project_login.csproj.CoreCompileInputs.cache
+C:\Users\zkdlz\OneDrive\Documents\카카오톡 받은 파일\project최종\project최종\project\project\obj\Debug\project.exe
+C:\Users\zkdlz\OneDrive\Documents\카카오톡 받은 파일\project최종\project최종\project\project\obj\Debug\project.pdb
+C:\Users\zkdlz\OneDrive\Desktop\cs\project_final\project\project\obj\Debug\project_login.csproj.AssemblyReference.cache
+C:\Users\zkdlz\OneDrive\Desktop\cs\project_final\project\project\obj\Debug\project_login.csproj.SuggestedBindingRedirects.cache
+C:\Users\zkdlz\OneDrive\Desktop\cs\project_final\project\project\obj\Debug\project.Bio.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project_final\project\project\obj\Debug\project.Eco.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project_final\project\project\obj\Debug\project.EcoY.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project_final\project\project\obj\Debug\project.HCar.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project_final\project\project\obj\Debug\project.HCarY.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project_final\project\project\obj\Debug\project.LG.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project_final\project\project\obj\Debug\project.LGC.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project_final\project\project\obj\Debug\project.LGCY.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project_final\project\project\obj\Debug\project.POSCO.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project_final\project\project\obj\Debug\project.Samsung.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project_final\project\project\obj\Debug\project.SamsungU.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project_final\project\project\obj\Debug\project.SamsungUY.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project_final\project\project\obj\Debug\project.SDSIY.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project_final\project\project\obj\Debug\project.SK.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project_final\project\project\obj\Debug\project.join.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project_final\project\project\obj\Debug\project.login.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project_final\project\project\obj\Debug\project.main.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project_final\project\project\obj\Debug\project.ShareBuyForm.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project_final\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project_final\project\project\obj\Debug\project.pwchange.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project_final\project\project\obj\Debug\project.SDSI.resources
+C:\Users\zkdlz\OneDrive\Desktop\cs\project_final\project\project\obj\Debug\project_login.csproj.GenerateResource.cache
+C:\Users\zkdlz\OneDrive\Desktop\cs\project_final\project\project\obj\Debug\project_login.csproj.CoreCompileInputs.cache
+C:\Users\zkdlz\OneDrive\Desktop\cs\project_final\project\project\obj\Debug\project.exe
+C:\Users\zkdlz\OneDrive\Desktop\cs\project_final\project\project\obj\Debug\project.pdb
+C:\Users\zkdlz\OneDrive\Desktop\cs\project_final\project\project\bin\Debug\project.exe.config
+C:\Users\zkdlz\OneDrive\Desktop\cs\project_final\project\project\bin\Debug\project.exe
+C:\Users\zkdlz\OneDrive\Desktop\cs\project_final\project\project\bin\Debug\project.pdb
